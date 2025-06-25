@@ -6,7 +6,7 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Customer Segmentation](projects/customer-segmentation) | Grouped customers using clustering techniques to identify marketing segments | Python, Pandas, Scikit-learn |
+| [Comparison of Evapotranspiration Estimate using the Eddy Covariance Method and some Selected Empirical Models](ren-de-leon/Comparison-of-Evapotranspiration-Estimates) | This project assessed the accuracy of four evapotranspiration (ET) models—Priestley-Taylor (PT), Hargreaves (HG), Eddy Covariance (EC), and Closed EC—by comparing their daily ET estimates with the FAO Penman-Monteith reference across 2013–2014 in Ghana's Sudanian Savanna. Performance was evaluated using correlation (R), RMSE, and MBE. The PT model showed the best agreement with the FAO standard, demonstrating its suitability for estimating ET in data-scarce regions.  | Python, Pandas |
 
 
 ---
@@ -15,14 +15,13 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 
 - Python (Pandas, NumPy, Scikit-learn)
 - Data Visualization (Matplotlib, Seaborn)
-- Machine Learning (Clustering, Regression)
-- Natural Language Processing (NLP)
-- SQL (optional for future)
-- Jupyter Notebooks
+- Statistics
+- Excel
+- Jupyter Notebooks, Spyder
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: yourname@example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-profile
+- 📧 Email: brukuwinfredfoli@gmail.com.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/winfred-bruku-b80333222/)
